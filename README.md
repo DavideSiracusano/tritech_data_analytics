@@ -90,7 +90,7 @@ Dal SQL fondamentale alla progettazione avanzata di database analitici.
 - **PostgreSQL**: tipi di dato, indici, schema design
 - **Data Warehousing**: star schema, fact table, dimension table
 - Slowly Changing Dimensions (SCD Tipo 1, 2, 3)
-- Query analitiche per KPI: ticket volume, CSAT, resolution time
+- Query analitiche per KPI: ticket volume, CSAT
 
 ### 🤖 Modulo 3 — Machine Learning
 
