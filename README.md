@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Obiettivi del Percorso
+## 🎯 Obiettivi
 
 Questo repository raccoglie i materiali, gli esercizi, i progetti e le risorse del tracciato **Data Analytics** di Tri Tech Academy. Il percorso è progettato per trasformare studenti con background eterogenei in professionisti capaci di lavorare con i dati in contesti reali: dall'estrazione e pulizia, all'analisi statistica, fino alla modellazione predittiva con il Machine Learning.
 
