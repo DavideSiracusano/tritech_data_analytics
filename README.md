@@ -69,7 +69,7 @@ psql -U postgres -c "CREATE DATABASE tritech_analytics;"
 
 ## 📚 Moduli del Percorso
 
-### 🐍 Modulo 1 — Python per i Dati
+### 🗄️ Modulo 1 — SQL e Database
 
 Fondamenta solide in Python con focus immediato sull'ecosistema dati.
 
@@ -80,7 +80,7 @@ Fondamenta solide in Python con focus immediato sull'ecosistema dati.
 - **Visualizzazione**: grafici statistici ed esplorativi
 - Gestione di file CSV, JSON, Excel
 
-### 🗄️ Modulo 2 — SQL e Database
+ ### 🐍 Modulo 2 — Python per i Dati
 
 Dal SQL fondamentale alla progettazione avanzata di database analitici.
 
