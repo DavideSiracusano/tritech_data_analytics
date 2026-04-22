@@ -17,7 +17,7 @@ Questo repository raccoglie i materiali, gli esercizi, i progetti e le risorse d
 | Area | Tecnologie |
 |------|-----------|
 | **Linguaggio** | Python 3.11+ |
-| **Data Wrangling** | Pandas, NumPy |
+| **Data Wrangling** | Pandas, Matplot, Seaborn |
 | **Database** | PostgreSQL, SQL standard |
 | **Versionamento** | Git, GitHub |
 | **Ambiente** | VS Code, Docker (opzionale) |
