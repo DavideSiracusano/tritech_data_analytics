@@ -71,6 +71,18 @@ psql -U postgres -c "CREATE DATABASE tritech_analytics;"
 
 ### 🗄️ Modulo 1 — SQL e Database
 
+  Dal SQL fondamentale alla progettazione avanzata di database analitici.
+
+- Query fondamentali: `SELECT`, `WHERE`, `JOIN`, `GROUP BY`
+- Subquery, CTE (Common Table Expressions)
+- Window Functions: `RANK()`, `LAG()`, `PARTITION BY`
+- **PostgreSQL**: tipi di dato, indici, schema design
+- **Data Warehousing**: star schema, fact table, dimension table
+- Slowly Changing Dimensions (SCD Tipo 1, 2, 3)
+- Query analitiche per KPI: ticket volume, CSAT
+
+ ### 🐍 Modulo 2 — Python per i Dati
+ 
 Fondamenta solide in Python con focus immediato sull'ecosistema dati.
 
 - Strutture dati native (list, dict, set, tuple)
@@ -80,17 +92,6 @@ Fondamenta solide in Python con focus immediato sull'ecosistema dati.
 - **Visualizzazione**: grafici statistici ed esplorativi
 - Gestione di file CSV, JSON, Excel
 
- ### 🐍 Modulo 2 — Python per i Dati
-
-Dal SQL fondamentale alla progettazione avanzata di database analitici.
-
-- Query fondamentali: `SELECT`, `WHERE`, `JOIN`, `GROUP BY`
-- Subquery, CTE (Common Table Expressions)
-- Window Functions: `RANK()`, `LAG()`, `PARTITION BY`
-- **PostgreSQL**: tipi di dato, indici, schema design
-- **Data Warehousing**: star schema, fact table, dimension table
-- Slowly Changing Dimensions (SCD Tipo 1, 2, 3)
-- Query analitiche per KPI: ticket volume, CSAT
 
 ### 🤖 Modulo 3 — Machine Learning
 
