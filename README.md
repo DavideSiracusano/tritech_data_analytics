@@ -1,4 +1,4 @@
-# 📊 Tri Tech Academy Data Analytics Track
+# 📊 Tri Tech Academy Data Analytics
 
 > Percorso formativo intensivo in **Python · SQL · Machine Learning**  
 > Formazione pratica orientata alle richieste aziendali nel cuore dell'intelligenza artificiale applicata.
