@@ -9,7 +9,6 @@ import pandas as pd
 df = pd.read_csv("C:\\Users\\david\\OneDrive\\Desktop\\esercizi python\\lez2\\Superstore.csv", parse_dates=["Order Date", "Ship Date"], encoding="latin-1")
 # Analisi esplorativa
 print("Shape del dataset:", df.shape)  # Dimensioni del dataset
-print("\nTipi di dati delle colonne:")
 print("tipi di dati delle colonne:", df.dtypes)  # Tipi di dati delle colonne
 print("Null values per colonna:", df.isnull().sum())  # Conta i valori null
 print("Duplicati:", df.duplicated().sum())  # Conta i duplicati
